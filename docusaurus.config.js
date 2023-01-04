@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gretmn102/fishing-wiki/',
+            'https://github.com/gretmn102/fishing-wiki/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
