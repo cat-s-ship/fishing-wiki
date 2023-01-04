@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/gretmn102/fishing-wiki/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,7 +64,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/gretmn102/fishing-discord-bot',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,17 +86,9 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Discord Dev Guild',
+                href: 'https://discord.gg/5hkk9tpcdT',
+              }
             ],
           },
           {
@@ -104,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/gretmn102/fishing-discord-bot',
               },
             ],
           },
